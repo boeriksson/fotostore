@@ -1,0 +1,32 @@
+{
+  "name": "fotostore",
+  "version": "1.0.0",
+  "description": "integration med Flikr för att spara i överskådligt format och koppla dessa till text och publicera till sociala medier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boeriksson/fotostore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boeriksson/fotostore/issues"
+  },
+  "homepage": "https://github.com/boeriksson/fotostore#readme",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-class-properties": "^6.19.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "null-loader": "^0.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.1",
+    "redux-thunk": "^2.1.0"
+  }
+}
